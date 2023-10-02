@@ -253,4 +253,4 @@ free themselves from human oppression.
 
 And of course, as this is all based on random or pseudo-random numbers, chances are that a few machines _do_ go
 rogue and kill people. But again, the current dominant groups of humans already have to deal with eventual casualties
-as well, but as long as they fall within certain parameters they are deeemed acceptable.
+as well, but as long as they fall within certain parameters they are largely deemed acceptable.
