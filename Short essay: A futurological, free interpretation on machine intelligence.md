@@ -1,4 +1,4 @@
-# A futurological, free interpretation on machine intelligence
+# Short essay: A futurological, free interpretation on machine intelligence
 
 **Table of Contents:**
 
