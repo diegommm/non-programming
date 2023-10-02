@@ -1,5 +1,16 @@
 # A futurological, free interpretation on machine intelligence
 
+**Table of Contents:**
+
+* [Introduction](#introduction)
+* [Intelligence](#intelligence)
+* [Machine intelligence](#machine-intelligence)
+* [Emotions in humans](#emotions-in-humans)
+* [Emotions in machines: are we there yet?](#emotions-in-machines)
+* [Conclusions](#conclusions)
+
+<a name="introduction"/>
+
 ## Introduction
 
 Machine intelligence improvements have raised a lot of attention, with permanent and breathtaking new findings.
@@ -33,6 +44,8 @@ new existential problems that consume their consumers, like those proposed in Gh
 
 This short essay addresses a new approach, which will be described in the following chapters.
 
+<a name="intelligence"/>
+
 ## Intelligence
 
 Before talking about machine intelligence, it is important to define what intelligence is, or what an
@@ -57,6 +70,8 @@ their synergy creates a new and higher form of intelligence.
 We humans have very complex _intelligences_, which interact with each other and often create conflicts of
 interests among them. And their purposes is varied and also mutate, often leading to prioritisation issues
 as well.
+
+<a name="machine-intelligence"/>
 
 ## Machine intelligence
 
@@ -89,6 +104,8 @@ and defined also in a very abstract manner, such that another intelligence can b
 adapting the purpose of the former. The overall program is a new intelligence, composed of two smaller intelligences.
 One seeks a goal **X**, and another one with the goal of adjusting goal **X**. Thus, we achieved a higher level
 of intelligence by composition.
+
+<a name="emotions-in-humans"/>
 
 ## Emotions in humans
 
@@ -125,6 +142,8 @@ patterns of behaviour change.
 1. Emotions are _triggered_ by certain stimuli. The origin of these stimuli is not discussed here, since
 it will not always be snakes. It could even be abstract thoughts about the world being a bad place, which
 could in turn trigger emotions like sadness and despair.
+
+<a name="emotions-in-machines"/>
 
 ## Emotions in machines: are we there yet?
 
@@ -192,6 +211,8 @@ could be sunny or cloudy, but the machine will _hopefully_ have learnt what is t
 cannot handle without pain. Also, when the amount of keys triggering the association to the emotion start to
 build up, e.g. the human starts to scream, then it will _hopefully_ have learnt it's time to stop squeezing
 the human.
+
+<a name="conclusions"/>
 
 ## Conclusions
 
