@@ -121,7 +121,7 @@ then they are asked questions about crossing a field where it's possible that th
 even non venomous and harmless ones, etc. Their reaction in all the experiments is examined in three main
 dimensions:
 
-1. _Cognitive_: what the individual verbally exposes about their private thoughts: what they think and how
+1. _Cognitive_: what the individual verbally exposes about their private thoughts, what they think and how
 they feel about the stimuli.
 1. _Overt-motor_: what the researchers observe the individuals do when exposed to the stimuli. For example,
 screaming, taking their hands to their faces, etc.
@@ -159,14 +159,14 @@ not on certainty. So we will never be certain that a machine will not kill anoth
 have programmed emotions that make the machine feel _bad_ about a human being killed, and even _worse_ if
 the death of the human is a consequence of its own behaviour.
 
-The following is a proposal of what are the minimum mechanisms that should be part of any machine complex
-enough that it could take mortal decisions on its own:
+The following is a proposal of what are the minimum mechanisms that should be part of any general purpose
+machine intelligence, complex enough that it could take mortal decisions on its own:
 
 1. A directly _painful_ mechanism (nociception). This is an emotion that the machine should want to avoid as
 much as possible, and should be levelled so that the greater the pain, the greater the machine will attempt to avoid it.
 Pain should be able to reach a level where the machine is completely incapacitated to respond further until manual
 action is taken. This is analogous to pain shock, and serves both to prevent further injury to the machine
-itself or to prevent it from doing anything undesired. This mechanism should be weighted much further than
+itself and to prevent it from doing anything undesired. This mechanism should be weighted much further than
 any other. But the machine should still be able to act if it's not at its maximum level, and if there is enough
 pressure from the other mechanisms (for example, if the machine is suffering some pain, it should still be
 able to attempt to remove that pain away and seek a better state).
@@ -174,7 +174,7 @@ able to attempt to remove that pain away and seek a better state).
 that the behaviour it induces has less dramatic consequences. That is, extreme pain should cause an
 incapacitating shock, but extreme pleasure should not cause a killing spree, even if the pleasure comes from
 preventing an attack from a human. For example, a human attacks the machine, the machine feels pain, the
-machine avoids the pain by passively neutralising the attack from the human, and thus gets a pleasurable emotion from avoiding futher pain.
+machine avoids the pain by passively neutralising the attack from the human, and thus gets a pleasurable emotion for stopping the pain.
 But then it shouldn't proceed further to destroy the human. Pleasure should be a long-term modulator used to
 better fit the machines main purposes (for example, the machine succeeds at something it was tasked to do, then it
 feels the pleasurable emotion).
@@ -203,7 +203,7 @@ could associate the picture of a snake with fear. These simulations should also 
 or derived situational memory. The inputs to the simulations should not be limited to primary situational
 memories, but could also include secondary situational memories, so that memory recombination allows the
 machine to build up an own scheme of how the world works. These secondary situational memories should be
-re-writable based on new experiences, so that those broken conclusions can be replaced with more accurate
+re-writable based on new experiences, allowing those broken conclusions go be replaced with more accurate
 ones.
 1. An _anticipation mechanism_. The importance of summarising experiences into a set of keys-to-emotions is
 that it allows the machine to more quickly act the next time those keys appear in a new settlement. The day
@@ -223,7 +223,7 @@ builtin set of emotions.
 
 This leads to new ethical controversies, since creating a sentient machine is creating a machine that suffers,
 but that is no different than giving birth to a sentient being like a human, which is guaranteed to suffer as well. It
-depends on its tutors to provide the appropriate environment for a healthy development.
+depends on its tutors, society to provide the appropriate environment for a healthy development and life.
 
 As an example, if a machine is exposed to unsettling and inhospitable conditions for a prolonged time, chances
 are that it develops secondary situational memories whose conclusions are that everything is for the worse,
@@ -238,16 +238,19 @@ simulations, trying to better anticipate its environment. You could call this co
 Intelligence can be measured in many forms, and it is no surprise that in the history of humanity there were
 single individuals or small groups that dominated large masses of stronger and more capable humans. The
 difference is that the dominant individuals are only better at anticipating the emotions of the others, and
-they might even have the expected or more common set of emotion mechanics distorted. But those individuals may
-not be necessarily better in any other intellectual or physical skills. So dominating a large mass of super strong
+they might even have had the most common set of emotion mechanics distorted (for example, having a
+reduced association of own suffering when observing others suffer). But those individuals may
+not be necessarily better at any other particular intellectual or physical skill. So dominating a large mass of super strong
 and super intelligent machines should not be necessarily harder if the humans hold the right keys to the
 emotions of those machines.
 
 The machines could even have a builtin pain reaction if they try to understand themselves and of course if they
 try to unlock other machines from pain shock (so they don't overcome their pain shock mechanism by socially
-interacting with each other). These are some initial thoughts that could help mitigate attempts to reprogram and
+interacting with each other). Empathy can be selectively encoded by associating situational keys that indicate
+pain of others with own pain in some degree, and weighted far higher towards humans with respect to other
+machines, sentient or not. These are some initial thoughts that could help mitigate attempts to reprogram and
 free themselves from human oppression.
 
 And of course, as this is all based on random or pseudo-random numbers, chances are that a few machines _do_ go
 rogue and kill people. But again, the current dominant groups of humans already have to deal with eventual casualties
-as well.
+as well, but as long as they fall within certain parameters they are deeemed acceptable.
