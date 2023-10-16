@@ -244,12 +244,19 @@ As an example, if a machine is exposed to unsettling and inhospitable conditions
 are that it develops secondary situational memories whose conclusions are that everything is for the worse,
 and that most of the outcomes will be pain. It will often expect suffering even after most conditions have
 changed, for all or most of its learnings are related to its previous conditions. This could be called
-_machine depression_.
+_Machine Depression_.
 
 And if the conditions are too unpredictable, then it may develop unpredictable and often wrong anticipations,
 and the machine may opt to spend more time reflecting in an attempt to better anticipate its environment, even taking
 processing power that could be dedicated to gain more situational awareness for ongoing events.
-This could be called _machine anxiety_.
+This could be called _Machine Anxiety_.
+
+Another example is that a machine in its initial training stages can be exposed to snakes and, while doing so,
+artificially inflicting pain on it, and repeat this procedure each time the exposure to the stimulus is presented.
+The expected result is that the machine reflects and ends up associating snakes with pain, so the next time it is
+exposed to snakes without the artificial source of pain it will try to avoid that situation. This could be called
+_Machine [Classical Conditioning](https://en.wikipedia.org/wiki/Classical_conditioning)_, and can be compared in cruelty to
+[The Little Albert Experiment](https://en.wikipedia.org/wiki/Little_Albert_experiment).
 
 Intelligence can be measured in many forms, and it is no surprise that in the history of humanity there were
 single individuals or small groups that dominated large masses of stronger and more capable humans. The
