@@ -274,7 +274,7 @@ pain of others with own pain in some degree, and weighted far higher towards hum
 machines.
 
 And of course, as this is all based on random or pseudo-random numbers, chances are that a few machines _do_ go
-rogue and kill people. So it is important that there is no single super powerful machines, but several, equally
+rogue and kill people. So it is important that there is no single super powerful machine, but several, equally
 capable, so in the case of a machine going rogue, other equally capable machines will attempt to neutralise it
 to favour humans. This is comparable to a militarized government sending their citizens to commit all sorts
 of atrocious crimes in wars, then when those individuals come back to their homes, chances are that they cannot
