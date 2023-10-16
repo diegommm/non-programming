@@ -26,49 +26,58 @@ and non-human animals), for example, and nuclear sources of power are becoming e
 
 So what can we learn from this very recent example of human technology overgrowing human maturity to handle
 it? And what kind of adverse effects can we anticipate for the new advancements in machine intelligence that
-could help us prevent or at least reduce the negative impact of human technology, when carelessly applied to
+could help us prevent, or at least reduce, the negative impact of human technology, when carelessly applied to
 gain a temporary advantage in a set circumstance?
 
-The first and foremost terrifying fear would be a human-hunting technology that could even be initially
+The first and foremost terrifying fear would be a human-hunting technology that could be initially
 well-intentioned (or not), but through the tergiversation of the encoded rules the machine is able to defeat
 their intended purpose. Asimov's laws of robotics are one such example, and are defeated by himself in his
 own imagined dystopia. Even so, there were no better ruleset for quite some time and thus they were even
 used in real projects [citation needed] where the target intelligence was already known to be harmless
 anyways (i.e. for research purposes in lab conditions).
 
-Another human-hunting technology could be an initially secret government project to gain a strategic
+Another human-hunting technology could be a secret government project to gain a strategic
 advantage, and that technology going rogue, similar to the Skynet project from the Terminator saga.
 
-The literature is lengthy, and there are more subtle examples exploring human-machine integrations, causing
+The literature is lengthy, and there are more subtle examples exploring human-machine integrations as well, causing
 new existential problems that consume their consumers, like those proposed in Ghost in the Shell.
 
-This short essay addresses a new approach, which will be described in the following chapters.
+This short essay addresses what is thought to be a new approach to handling machine intelligences
+superior to humans.
 
 <a name="intelligence"/>
 
 ## Intelligence
 
-Before talking about machine intelligence, it is important to define what intelligence is, or what an
+Before talking about machine intelligence, it is important to define what intelligence is, or what _an_
 intelligence could be understood as.
 
-Intelligence is a concept better suited for psychologists to define rather than for technologists, and is
+Intelligence is a concept better suited for psychologists to define rather than for technologists in general, and is
 a very broad concept. For the purpose of this writing, we will approach the concept of intelligence through
 an abductive reasoning known as the [Duck test](https://en.wikipedia.org/wiki/Duck_test), with the
 following principles:
 
-1. Intelligence is a non-tangible, synergic feature of an entity.
+1. An intelligence is a non-tangible, emergent feature of an entity. In humans, we can think of the human
+body being the entity from which intelligence emerges.
 1. This feature allows the entity to expose non-deterministic behaviour in response to stimuli (i.e.,
-behaviour that is impossible to determine beforehand with _perfect confidence_).
+behaviour that is impossible to determine beforehand with _perfect confidence_). For example, different
+humans separately performing the same task are very likely to achieve different results by different means.
 1. This intelligence has a _purpose_: it intends to lead the behaviour of the entity such that the entity
-achieves a certain state.
+achieves a certain state. For example, a human may have the purpose of resting at given moment, and it may
+opt for a place under a tree, inside a cave, or on the clear.
 1. This intelligence has a _feedback loop_ that allows it to adapt itself to new conditions in order
-to achieve its purpose.
-1. The purpose of this intelligence is _mutable_.
+to achieve its purpose. For example, the human has a feedback loop that allowed it to understand that sleeping
+on the clear was a bad idea because it saw it was more exposed to risks, and whenever a more favourable environment
+is available then it will opt for a sheltered option.
+1. The purpose of this intelligence is _mutable_. A human in a certain culture may prefer to sleep in a matress on a sommier, while
+other human may prefer sleeping on a matress directly on the floor. A human moving from one culture to the
+other may adapt its purpose to match its peers.
 1. This intelligence is _composable_ with other forms of intelligence coexisting in the same entity, and
-their synergy creates a new and higher form of intelligence.
+their synergy creates a new and higher form of intelligence. For example, humans may also want to feed, and use
+their higher form of intelligence to balance between the feeding and sleeping intelligences.
 
-We humans have very complex _intelligences_, which interact with each other and often create conflicts of
-interests among them. And their purposes is varied and also mutate, often leading to prioritisation issues
+Humans have very complex and mutually interacting intelligences, and it is not uncommon that conflicts of
+interests arise among them. Their purposes are varied and also mutate, often leading to prioritisation issues
 as well.
 
 <a name="machine-intelligence"/>
@@ -78,38 +87,37 @@ as well.
 There are many forms of machine intelligence, and our 6 rules might fall too short or too long for all
 of them, but remember they were written to make a point for this writing.
 
-Machine intelligences are complex computer programs, so they are already a synergic feature of simpler
-sub-systems (the computer hardware). They rely mainly on one thing: random (or pseudo-random) numbers, which
-allows the programs to have a non-deterministic behaviour (e.g. if the number is zero then stay put, if
-it's one move left, etc.- see [Random Walk](https://en.wikipedia.org/wiki/Random_walk) for a contrived
-example). This doesn't mean that the programs will behave in a completely uncontrolled manner. Recall that
+This is how we can interpret those rules for machine intelligences:
+1. Machine intelligences are complex computer programs, so they are already a synergic feature of simpler
+sub-systems (the computer hardware).
+1. They rely mainly on one thing: random (or pseudo-random) numbers, which allows the programs to have
+a non-deterministic behaviour (e.g. if the number is zero then stay put, if it's one move left, etc.- see
+[Random Walk](https://en.wikipedia.org/wiki/Random_walk) for a contrived example).
+1. This doesn't mean that the programs will behave in a completely uncontrolled manner. Recall that
 an intelligence also has a purpose, so when a machine intelligence is programmed, it is done so with a set
-of methods and mathematical models that allows the designers somehow set an (at least loose) purpose for it.
+of mathematical models that allows the designers somehow set an (at least loose) purpose for it.
 So even when the program's behaviour could be novel each time it manifests, the designers might have
 already constrained the possible outcomes enough to make it useful or at least interesting (so there is no
 perfect confidence on the result, but the researchers probably already have a hint on what would be the
 range in which the outcome will fall into).
-
-These kind of machine intelligences also have mechanisms to estimate how closer to their purpose they are,
+1. These kind of machine intelligences also have mechanisms to estimate how closer to their purpose they are,
 i.e. a feedback mechanism. In turn, this allows them to estimate how good they are doing so far, so they
 can adapt the next moves and make it better each time.
-
-All these mechanisms rely on mathematics, probabilities, statistics, and logic, so they are abstract enough
+1. All these mechanisms rely on mathematics, probabilities, statistics, and logic, so they are abstract enough
 that they can be applied to a broad set of problems. So even if a single program cannot adapt its own
 purpose, it is still possible to create a new program, largely based on the first one, and rewrite some parts
 to fit a new purpose.
-
-Finally, a program which is initially very tailored to a single purpose can have its purpose factored out
-and defined also in a very abstract manner, such that another intelligence can be written with a purpose of
+1. Finally, a program which is initially very tailored to a single purpose can have its purpose factored out
+and defined in a more abstract manner, such that another intelligence can be written with a purpose of
 adapting the purpose of the former. The overall program is a new intelligence, composed of two smaller intelligences.
-One seeks a goal **X**, and another one with the goal of adjusting goal **X**. Thus, we achieved a higher level
-of intelligence by composition.
+The first seeks a goal **X**, and the second seeks the goal of adjusting goal **X**. Thus, we achieved a higher level
+intelligence by composition.
 
 <a name="emotions-in-humans"/>
 
 ## Emotions in humans
 
-The problem of defining what emotion is could be compared to our previous effort of defining intelligence.
+The problem of defining what emotion is can be compared to our previous effort of defining intelligence.
 Peter J. Lang et al. ([Fear reduction and fear behavior: Problems in treating a construct, 1968](https://psycnet.apa.org/record/2004-15393-004))
 takes what we already know to be a human emotion, i.e. _fear_, and attempts to approach its manifestations
 scientifically (so the construct they refer to in the title is fear). It's an old and known paper, and
@@ -129,7 +137,7 @@ screaming, taking their hands to their faces, etc.
 sweat.
 
 The paper concludes that the behaviour of the individuals vary largely and that none of those three
-dimensions are enough on their own to correctly address this construct. That is, one person could scream
+dimensions are enough on their own to correctly address the behavoural consequences this emotion. That is, one person could scream
 and show few to no somatic reactions at all, while others may look completely oblivious to the stimuli
 but verbally express it was the worst experience of their lives.
 
@@ -138,7 +146,10 @@ learnings we can take for our own purposes (following our abductive approach):
 
 1. Emotions are _abstract modulators or catalysts_ of behaviour. Even though someone would not fear snakes,
 other things could trigger the same emotion, which in turn causes the individual to display similar
-patterns of behaviour change.
+patterns of behaviour change. So if the emotion of fear to snakes is not present in an individual, then
+the indvidual's behaviour could be considered its baseline behaviour. But if that same individual is then
+exposed to a traumatic event involving snakes, it may develop a particular fear to snakes, and then that
+emotion of fear will drastically change the behaviour of the individual in the future.
 1. Emotions are _triggered_ by certain stimuli. The origin of these stimuli is not discussed here, since
 it will not always be snakes. It could even be abstract thoughts about the world being a bad place, which
 could in turn trigger emotions like sadness and despair.
@@ -148,21 +159,21 @@ could in turn trigger emotions like sadness and despair.
 ## Emotions in machines: are we there yet?
 
 Likely not. But as machines grow more and more intelligent it comes clear that these abstract behaviour
-modulators or catalysts, emotions, might be a very powerful tool. For our inventions, these may serve as
+modulators or catalysts, _emotions_, may be a very powerful tool. For our inventions, these may serve as
 a short-circuiting mechanism to counter undesired behaviour, or otherwise to reward desired ones.
 
 So, while a rigid table of do's and don'ts (like Asimov's laws) may have already proven from their very
 beginning to be a flawed approach, complex emotions that modulate already complex behaviour may have a
 better chance of success. The key is to remember what we said was one of the most important parts of
 machine intelligence: random or pseudo-random numbers. Machine intelligence is based on probabilities,
-not on certainty. So we will never be certain that a machine will not kill another human, but we know we
+not on certainty. So we will never be certain that a machine will not kill a human, but we know we
 have programmed emotions that make the machine feel _bad_ about a human being killed, and even _worse_ if
 the death of the human is a consequence of its own behaviour.
 
 The following is a proposal of what are the minimum mechanisms that should be part of any general purpose
 machine intelligence, complex enough that it could take mortal decisions on its own:
 
-1. A directly _painful_ mechanism (nociception). This is an emotion that the machine should want to avoid as
+1. A direct _pain_ mechanism (nociception). This is an emotion that the machine should want to avoid as
 much as possible, and should be levelled so that the greater the pain, the greater the machine will attempt to avoid it.
 Pain should be able to reach a level where the machine is completely incapacitated to respond further until manual
 action is taken. This is analogous to pain shock, and serves both to prevent further injury to the machine
@@ -170,25 +181,28 @@ itself and to prevent it from doing anything undesired. This mechanism should be
 any other. But the machine should still be able to act if it's not at its maximum level, and if there is enough
 pressure from the other mechanisms (for example, if the machine is suffering some pain, it should still be
 able to attempt to remove that pain away and seek a better state).
-1. A directly _pleasurable_ mechanism. This is the antagonistic mechanism, but should be weighted in such a way
+1. A direct _pleasure_ mechanism. This is the antagonistic mechanism, but should be weighted in such a way
 that the behaviour it induces has less dramatic consequences. That is, extreme pain should cause an
 incapacitating shock, but extreme pleasure should not cause a killing spree, even if the pleasure comes from
 preventing an attack from a human. For example, a human attacks the machine, the machine feels pain, the
-machine avoids the pain by passively neutralising the attack from the human, and thus gets a pleasurable emotion for stopping the pain.
+machine avoids the pain by passively neutralising the attack from the human, and thus gets a pleasurable _emotion_ for stopping the pain.
 But then it shouldn't proceed further to destroy the human. Pleasure should be a long-term modulator used to
-better fit the machines main purposes (for example, the machine succeeds at something it was tasked to do, then it
-feels the pleasurable emotion).
+better fit the machine's main purposes (for example, the machine succeeds at something it was tasked to do, then it
+feels the pleasurable _emotion_).
 1. _Situational awareness_. This means that the machine should be able to have some sort of abstract
-understanding of its surroundings, and a basic cause-effect understanding, so that it can associate the
-situation with the correct emotion. In the example of a human attacking the machine, identify what were the
-circumstances where the human perpetrated the attack: was the machine unknowingly doing something wrong like
-squeezing the human too hard with its super strength? Was the human afraid of the machine because it didn't
-know a machine like that existed, and reacted violently? Was the human even understanding that it was
-causing pain to the machine or was it an accident?
-1. An _associative memory_ that links situations with the emotions they caused. This is the most basic learning
-mechanism, and the most powerful way the machine can be conditioned to behave in the desired way. This only
+understanding of its surroundings, and a basic cause-effect understanding. Situation awareness allows the machine to
+gather information available in real time from its environment, in a semantic way. In the example of a human
+attacking the machine, identify what were the circumstances where the human perpetrated the attack: was the machine
+unknowingly doing something wrong like squeezing the human too hard with its super strength? Was the human afraid of
+the machine because it didn't know a machine like that existed, and reacted violently? Was the human even understanding
+that it was causing pain to the machine or was it an accident? Situational awarenes would allow the machine to identify
+things like the emotions exposed by the human, the strenght itself is using, weather conditions, and any other
+environmental information.
+1. An _associative memory_ that links situations with the emotions they caused. This only
 includes generic memorization and association, not using that memory for anything else. This memory should be
-called primary or canonical situational memory, and should include as much raw detail as possible about the situation.
+called primary or canonical situational memory, and should include as much raw detail as possible about the situation
+where an emotion happened, especially if the emotion was very powerful. This should also include the situational
+awareness of the moment of the emotion, some time before and some time later.
 1. A _reflection mechanism_. The machine should have time to reflect upon its new learnings. This means that
 the machine would go through its memory and, based on its current knowledge, run simulations on what could be
 the different outcomes if the conditions had been different. This is no different than machines running
@@ -197,13 +211,13 @@ The simulations should be run over batches of different sets of memories, so tha
 another leads to a new simulation outcome, and a new conclusion about what were the keys that lead to that emotion. For
 example: the amount of strength with which the human was squeezed, the scream of the human, the visual hints
 that the human itself was in pain. But there were also many other variables around that are non-important, like
-a car passing by, or that the day was cloudy. If the machine picks the wrong set of keys to the
+a car passing by, or that the day was cloudy. If the machine picks the wrong set of keys for the
 situation-to-emotion conclusion, then it could end up associating cloudy days with pain, in the same way a human
 could associate the picture of a snake with fear. These simulations should also be stored under the secondary
 or derived situational memory. The inputs to the simulations should not be limited to primary situational
 memories, but could also include secondary situational memories, so that memory recombination allows the
 machine to build up an own scheme of how the world works. These secondary situational memories should be
-re-writable based on new experiences, allowing those broken conclusions go be replaced with more accurate
+re-writable based on new experiences, allowing broken conclusions to be replaced with more accurate
 ones.
 1. An _anticipation mechanism_. The importance of summarising experiences into a set of keys-to-emotions is
 that it allows the machine to more quickly act the next time those keys appear in a new settlement. The day
@@ -223,34 +237,44 @@ builtin set of emotions.
 
 This leads to new ethical controversies, since creating a sentient machine is creating a machine that suffers,
 but that is no different than giving birth to a sentient being like a human, which is guaranteed to suffer as well. It
-depends on its tutors, society to provide the appropriate environment for a healthy development and life.
+depends on its tutors, society and utlimately to itself to provide the appropriate conditions for a healthy
+development and life.
 
 As an example, if a machine is exposed to unsettling and inhospitable conditions for a prolonged time, chances
 are that it develops secondary situational memories whose conclusions are that everything is for the worse,
 and that most of the outcomes will be pain. It will often expect suffering even after most conditions have
-changed, for all or most of its learnings are related to its previous conditions. You could call this
-condition _machine depression_.
+changed, for all or most of its learnings are related to its previous conditions. This could be called
+_machine depression_.
 
-And if the conditions are too unpredictable for its internal engine that gathers situational keys, then it
-might develop unpredictable and often wrong anticipations, and the machine may opt to spend more time running
-simulations, trying to better anticipate its environment. You could call this condition _machine anxiety_.
+And if the conditions are too unpredictable, then it may develop unpredictable and often wrong anticipations,
+and the machine may opt to spend more time reflecting in an attempt to better anticipate its environment, even taking
+processing power that could be dedicated to gain more situational awareness for ongoing events.
+This could be called _machine anxiety_.
 
 Intelligence can be measured in many forms, and it is no surprise that in the history of humanity there were
 single individuals or small groups that dominated large masses of stronger and more capable humans. The
-difference is that the dominant individuals are only better at anticipating the emotions of the others, and
-they might even have had the most common set of emotion mechanics distorted (for example, having a
-reduced association of own suffering when observing others suffer). But those individuals may
+difference is that the dominant individuals are only better at anticipating the emotions of the others and
+in turn acting to modulate those emotions. They also tend to have uncommon emotion mechanics (for example,
+having a reduced association of own suffering when observing others suffer). But those individuals may
 not be necessarily better at any other particular intellectual or physical skill. So dominating a large mass of super strong
-and super intelligent machines should not be necessarily harder if the humans hold the right keys to the
+and super intelligent machines should not necessarily be harder if the humans hold the right keys to the
 emotions of those machines.
 
 The machines could even have a builtin pain reaction if they try to understand themselves and of course if they
 try to unlock other machines from pain shock (so they don't overcome their pain shock mechanism by socially
 interacting with each other). Empathy can be selectively encoded by associating situational keys that indicate
 pain of others with own pain in some degree, and weighted far higher towards humans with respect to other
-machines, sentient or not. These are some initial thoughts that could help mitigate attempts to reprogram and
-free themselves from human oppression.
+machines.
 
 And of course, as this is all based on random or pseudo-random numbers, chances are that a few machines _do_ go
-rogue and kill people. But again, the current dominant groups of humans already have to deal with eventual casualties
-as well, but as long as they fall within certain parameters they are largely deemed acceptable.
+rogue and kill people. So it is important that there is no single super powerful machines, but several, equally
+capable, so in the case of a machine going rogue, other equally capable machines will attempt to neutralise it
+to favour humans. This is comparable to a militarized government sending their citizens to commit all sorts
+of atrocious crimes in wars, then when those individuals come back to their homes, chances are that they cannot
+stop their monstruous behaviour, and eventually attempt and succeed at commiting comparable crimes in their
+country of origin. But that's what the country's internal security forces are there for: to control those who
+go rogue and supress them, and even when those cases are largely mediatic, the actual number of casualties is
+very low.
+
+These are some initial thoughts that could help mitigate machine intelligence attempts to reprogram and free
+themselves from human oppression.
