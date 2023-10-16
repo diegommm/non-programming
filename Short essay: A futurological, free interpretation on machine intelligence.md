@@ -34,7 +34,7 @@ well-intentioned (or not), but through the tergiversation of the encoded rules t
 their intended purpose. Asimov's laws of robotics are one such example, and are defeated by himself in his
 own imagined dystopia. Even so, there were no better ruleset for quite some time and thus they were even
 used in real projects [citation needed] where the target intelligence was already known to be harmless
-anyways (i.e. for research purposes in lab conditions).
+anyway (i.e. for research purposes in lab conditions).
 
 Another human-hunting technology could be a secret government project to gain a strategic
 advantage, and that technology going rogue, similar to the Skynet project from the Terminator saga.
@@ -69,8 +69,8 @@ opt for a place under a tree, inside a cave, or on the clear.
 to achieve its purpose. For example, the human has a feedback loop that allowed it to understand that sleeping
 on the clear was a bad idea because it saw it was more exposed to risks, and whenever a more favourable environment
 is available then it will opt for a sheltered option.
-1. The purpose of this intelligence is _mutable_. A human in a certain culture may prefer to sleep in a matress on a sommier, while
-other human may prefer sleeping on a matress directly on the floor. A human moving from one culture to the
+1. The purpose of this intelligence is _mutable_. A human in a certain culture may prefer to sleep in a mattress on a sommier, while
+other human may prefer sleeping on a mattress directly on the floor. A human moving from one culture to the
 other may adapt its purpose to match its peers.
 1. This intelligence is _composable_ with other forms of intelligence coexisting in the same entity, and
 their synergy creates a new and higher form of intelligence. For example, humans may also want to feed, and use
@@ -137,7 +137,7 @@ screaming, taking their hands to their faces, etc.
 sweat.
 
 The paper concludes that the behaviour of the individuals vary largely and that none of those three
-dimensions are enough on their own to correctly address the behavoural consequences this emotion. That is, one person could scream
+dimensions are enough on their own to correctly address the behavioural consequences this emotion. That is, one person could scream
 and show few to no somatic reactions at all, while others may look completely oblivious to the stimuli
 but verbally express it was the worst experience of their lives.
 
@@ -147,7 +147,7 @@ learnings we can take for our own purposes (following our abductive approach):
 1. Emotions are _abstract modulators or catalysts_ of behaviour. Even though someone would not fear snakes,
 other things could trigger the same emotion, which in turn causes the individual to display similar
 patterns of behaviour change. So if the emotion of fear to snakes is not present in an individual, then
-the indvidual's behaviour could be considered its baseline behaviour. But if that same individual is then
+the individual's behaviour could be considered its baseline behaviour. But if that same individual is then
 exposed to a traumatic event involving snakes, it may develop a particular fear to snakes, and then that
 emotion of fear will drastically change the behaviour of the individual in the future.
 1. Emotions are _triggered_ by certain stimuli. The origin of these stimuli is not discussed here, since
@@ -195,8 +195,8 @@ gather information available in real time from its environment, in a semantic wa
 attacking the machine, identify what were the circumstances where the human perpetrated the attack: was the machine
 unknowingly doing something wrong like squeezing the human too hard with its super strength? Was the human afraid of
 the machine because it didn't know a machine like that existed, and reacted violently? Was the human even understanding
-that it was causing pain to the machine or was it an accident? Situational awarenes would allow the machine to identify
-things like the emotions exposed by the human, the strenght itself is using, weather conditions, and any other
+that it was causing pain to the machine or was it an accident? Situational awareness would allow the machine to identify
+things like the emotions exposed by the human, the strength itself is using, weather conditions, and any other
 environmental information.
 1. An _associative memory_ that links situations with the emotions they caused. This only
 includes generic memorization and association, not using that memory for anything else. This memory should be
@@ -271,9 +271,9 @@ rogue and kill people. So it is important that there is no single super powerful
 capable, so in the case of a machine going rogue, other equally capable machines will attempt to neutralise it
 to favour humans. This is comparable to a militarized government sending their citizens to commit all sorts
 of atrocious crimes in wars, then when those individuals come back to their homes, chances are that they cannot
-stop their monstruous behaviour, and eventually attempt and succeed at commiting comparable crimes in their
+stop their monstrous behaviour, and eventually attempt and succeed at committing comparable crimes in their
 country of origin. But that's what the country's internal security forces are there for: to control those who
-go rogue and supress them, and even when those cases are largely mediatic, the actual number of casualties is
+go rogue and suppress them, and even when those cases occupy a big space on the media, the actual number of casualties is
 very low.
 
 These are some initial thoughts that could help mitigate machine intelligence attempts to reprogram and free
