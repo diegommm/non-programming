@@ -89,7 +89,7 @@ of them, but remember they were written to make a point for this writing.
 
 This is how we can interpret those rules for machine intelligences:
 1. Machine intelligences are complex computer programs, so they are already a synergic feature of simpler
-sub-systems (the computer hardware).
+sub-systems (the computer hardware, software, electrical power, an operator launching the program, etc.).
 1. They rely mainly on one thing: random (or pseudo-random) numbers, which allows the programs to have
 a non-deterministic behaviour (e.g. if the number is zero then stay put, if it's one move left, etc.- see
 [Random Walk](https://en.wikipedia.org/wiki/Random_walk) for a contrived example).
