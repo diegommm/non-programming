@@ -285,3 +285,5 @@ very low.
 
 These are some initial thoughts that could help mitigate machine intelligence attempts to reprogram and free
 themselves from human oppression.
+
+NOTE: should it suffice to say that this was written as the tip for a Science Fiction novel that it would appear I am too busy, and sometimes just too lazy, to give continuity to.
